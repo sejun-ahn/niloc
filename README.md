@@ -31,7 +31,7 @@ Please cite the following paper is you use the code, paper, models or data.
  6. Evaluate
     * Select the checkpoints to use and create checkpoint file described in `niloc/cmd_test_file.py`
     * make .txt file with checkpoint file's directory
-    * ex) "699 /home/ahn/Desktop/niloc/models/C/version_0/epoch=699-tr_ratio=0.0.ckpt" in \<checkpoint file\>
+    * ex) "699 /home/ahn/Desktop/niloc/models/C/version_0/epoch=699-tr_ratio=0.0.ckpt" in "model_dir.txt"
     ```
     ./test_imu.sh <building> <checkpoint file>
     ```
