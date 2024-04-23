@@ -1,0 +1,1 @@
+699 /home/ahn/Desktop/niloc/models/C/version_0/epoch=699-tr_ratio=0.0.ckpt
